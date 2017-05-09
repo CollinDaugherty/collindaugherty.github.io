@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="Home - PRIME" title="Home - PRIME">
+<page file="about.html" text="                         About                     " title="About - PRIME"/>
+<page file="blog.html" text="                         Blog                     " title="PRIME"/>
+<page file="contact.html" text="                         Contact                     " title="Contact - PRIME"/>
+<page file="blog-article.html" text="" title="Blog Article - PRIME"/>
+<page file="blog-article-2.html" text="" title="Blog Article 2 - PRIME"/>
+<page file="blog-article-3.html" text="" title="Blog Article 3 - PRIME"/>
+</page>
+</site>
