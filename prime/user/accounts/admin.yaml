@@ -1,0 +1,11 @@
+email: collinjdaugherty@gmail.com
+fullname: Collin
+title: admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$/3absEnTo4UfusIvDWfkeuv80Ng0PYSmOxJD4QL.HpjmK9obSECK6
