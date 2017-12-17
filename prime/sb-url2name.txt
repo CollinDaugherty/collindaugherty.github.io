@@ -1,7 +1,0 @@
-http://website2.dev/	index
-http://website2.dev/about	about
-http://website2.dev/blog	blog
-http://website2.dev/contact	contact
-http://website2.dev/blog/blog-article	blog-article
-http://website2.dev/blog/blog-article-2	blog-article-2
-http://website2.dev/blog/blog-article-3	blog-article-3
